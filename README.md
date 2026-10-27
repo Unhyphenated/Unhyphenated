@@ -3,4 +3,4 @@
   <img alt="unhyphenated" src="./assets/logo-light.svg" width="460">
 </picture>
 
-<sub>Software engineer · Kuala Lumpur</sub>
+<sub>Software Engineer · Kuala Lumpur</sub>
