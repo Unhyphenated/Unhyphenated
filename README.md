@@ -1,1 +1,6 @@
-<h1 align="center">Hi 👋, I'm Julian Jong</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+  <img alt="unhyphenated" src="./assets/logo-light.svg" width="460">
+</picture>
+
+<sub>Software engineer · Kuala Lumpur</sub>
